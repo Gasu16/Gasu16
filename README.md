@@ -3,7 +3,7 @@ I am a Cyber Security Analyst fan of Malwares, Kernel-level exploits and Memory 
 
 I am currently delving into reverse engineering, malware analysis and memory forensics.
 
-![](https://github.com/Gasu16/Gasu16/blob/main/hollowing_volatility.png)
+![](https://github.com/Gasu16/Gasu16/blob/main/image_2025-07-11_16-13-27.png)
 
 ![](https://hit.yhype.me/github/profile?account_id=28620328)
 
