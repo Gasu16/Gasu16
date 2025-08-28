@@ -1,7 +1,7 @@
 ## Hi there!
-I am a Cyber Security Analyst fan of Malwares, Kernel-level exploits and Memory based threats. 
+Cyber Security Analyst passionate about malware, kernel exploits, and memory-based threats.  
+Security Researcher by hobby, currently exploring reverse engineering, malware analysis and vulnerability research.
 
-I am currently delving into reverse engineering, malware analysis and memory forensics.
 
 ![](https://github.com/Gasu16/Gasu16/blob/main/image_2025-07-11_16-13-27.png)
 
