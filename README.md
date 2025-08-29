@@ -1,7 +1,8 @@
 ## Hi there!
-Cyber Security Analyst passionate about malware, kernel exploits, and memory-based threats.  
-Security Researcher by hobby, currently exploring reverse engineering, malware analysis and vulnerability research.
-
+### Cyber Security Analyst | Security Researcher
+Passionate about low-level security and adversarial techniques.
+I dive into malware analysis, reverse engineering, vulnerability research, EDR evasion, and kernel exploitation (ring 0).
+Always curious about how things break — and how to make them more secure.
 
 ![](https://github.com/Gasu16/Gasu16/blob/main/image_2025-07-11_16-13-27.png)
 
