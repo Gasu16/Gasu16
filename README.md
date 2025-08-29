@@ -1,4 +1,4 @@
-## Hi there!
+## Welcome to my GitHub profile 💻
 ### Cyber Security Analyst | Security Researcher
 Passionate about low-level security and adversarial techniques.
 I dive into malware analysis, reverse engineering, vulnerability research, EDR evasion, and kernel exploitation (ring 0).
